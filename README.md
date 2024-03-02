@@ -1,4 +1,4 @@
-# SpringSecurityJWT
+# Spring Security JWT
 Project Spring Security JWT
 
 Spring Boot 3.2.3
